@@ -47,9 +47,9 @@
         </clazz>
     </action>
     <action>
-        <name>adprepare.promanage.bodydurationmlyprojectplanHVO</name>
-        <label>表体工期计算</label>
-        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanBVOdurationAction
+        <name>adprepare.promanage.bodyaftereditmlyprojectplanHVO</name>
+        <label>表体编辑后事件</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanBodyAfterEditAction
         </clazz>
     </action>
 

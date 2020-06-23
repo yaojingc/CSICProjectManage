@@ -19,7 +19,7 @@ import nccloud.framework.web.json.JsonFactory;
 import nccloud.framework.web.ui.pattern.billcard.BillCard;
 import nccloud.framework.web.ui.pattern.billcard.BillCardOperator;
 
-public class MlyprojectplanBVOdurationAction implements ICommonAction {
+public class MlyprojectplanBodyAfterEditAction implements ICommonAction {
 
 	@Override
 	public Object doAction(IRequest paramIRequest) {

@@ -20,8 +20,8 @@
 			<action>adprepare.promanage.uncommitmlyprojectplanHVO</action>
 			<!-- 表头编辑后事件 -->
 			<action>adprepare.promanage.headafterEventmlyprojectplanHVO</action>
-			<!-- 表体工期计算 -->
-			<action>adprepare.promanage.bodydurationmlyprojectplanHVO</action>
+			<!-- 表体编辑后事件 -->
+			<action>adprepare.promanage.bodyaftereditmlyprojectplanHVO</action>
 		</actions>
 	</authorize>
 </authorizes>
