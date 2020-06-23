@@ -1,0 +1,62 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "91H10555_LIST",
+    "pagename": "旬计划列表页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10555/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10555",
+    "pk_apppage": "PK_PG01",
+    "resid": 91H10555_LIST,
+    "ts": "2020-05-27 16:48:58"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "91H10555_CARD",
+    "pagename": "旬计划卡片页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10555/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10555",
+    "pk_apppage": "PK_PG02",
+    "resid": 91H10555_CARD,
+    "ts": "2020-05-27 16:48:58"
+  },
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "Y",
+"isdefault": "N",
+"modifier": "~",
+"pagecode": "91H10555L_CARD",
+"pagename": "旬计划联查卡片页",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10555/main/index.html#/card",
+"parent_id": "PK_APP",
+"parentcode": "91H10555",
+"pk_apppage": "PK_PG03",
+"resid": 91H10555_CARD,
+"ts": "2020-05-27 16:48:58"
+},
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "N",
+"isdefault": "Y",
+"modifier": "~",
+"pagecode": "91H10555A_CARD",
+"pagename": "旬计划审批",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10555/main/index.html#/card",
+"parent_id": "PK_APP1",
+"parentcode": "91H10555A",
+"pk_apppage": "PK_PG04",
+"resid": 91H10555A_CARD,
+"ts": "2020-05-27 16:48:58"
+}
+]

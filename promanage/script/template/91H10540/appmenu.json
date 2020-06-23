@@ -1,0 +1,56 @@
+[
+{
+"dr": "0",
+"menuitemcode": "91",
+"menuitemname": "adprepare",
+"pk_menu": "1004Z510000000000FFL",
+"pk_menuitem": "PK_M01",
+"ts": "2020-05-08 16:41:45"
+},
+{
+"dr": "0",
+"menuitemcode": "91H1",
+"menuitemname": "adprepare",
+"parentcode": "91",
+"pk_menu": "1004Z510000000000FFL",
+"resid": "",
+"pk_menuitem": "PK_M01",
+"ts": "2020-05-08 16:41:45"
+},
+{
+"dr": "0",
+"menuitemcode": "91H105",
+"menuitemname": "promanage",
+"parentcode": "91H1",
+"resid": "",
+"pk_menu": "1004Z510000000000FFL",
+"pk_menuitem": "PK_M02",
+"ts": "2020-05-08 16:41:45"
+},
+  {
+    "appcode": "91H10540",
+    "appid": "PK_APP",
+    "dr": "0",
+    "menudes": "客户信息登记",
+    "menuitemcode": "91H10540",
+    "menuitemname": "客户信息登记",
+    "parentcode": "91H105",
+    "resid": "",
+    "pk_menu": "1004Z510000000000FFL",
+    "pk_menuitem": "PK_M03",
+    "ts": "2020-05-08 16:41:45"
+},
+{
+    "appcode": "91H10540A",
+    "appid": "PK_APP1",
+    "dr": "0",
+    "menudes": "客户信息登记",
+    "menuitemcode": "91H10540A",
+    "menuitemname": "客户信息登记审批",
+    "parentcode": "91H105",
+    "resid": "",
+    "pk_menu": "1004Z510000000000FFL",
+    "pk_menuitem": "PK_M03",
+    "ts": "2020-05-08 16:41:45"
+}
+]

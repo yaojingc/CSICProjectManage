@@ -1,0 +1,137 @@
+.treetablegtt {
+    vertical-align: top;
+    height: 100%;
+    margin-left: 0.5%;
+    background-color: #fff;
+}
+
+.gtt-container {
+    height: 626px;
+    // position: relative;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    .gtt-legend-container {
+        position: absolute;
+        height: 40px;
+        padding: 13px;
+        font-size: 12px;
+        .gtt-legend-item {
+            display: inline-block;
+            height: 13px;
+            width: 13px;
+            border-radius: 3px;
+            vertical-align: bottom;
+        }
+        .gtt-legend-text {
+            font-size: 12px;
+            margin-right: 10px;
+        }
+    }
+    .gtt_head_btngroup1 {
+        margin: 5px;
+        position: absolute;
+        right: 14px;
+    }
+    .gtt-head1 {
+        height: 40px;
+    }
+    .gtt-head2 {
+        min-width: 100%;
+        border-bottom: 1px solid #d0d0d0;
+        border-top: 1px solid #d0d0d0;
+        height: 36px;
+        background: #ECEFF5;
+        white-space: nowrap;
+        .gtt_head_year_y {
+            height: 36px;
+            line-height: 36px;
+            text-align: center;
+            border-right: 1px solid #d2daea;
+            display: inline-block;
+        }
+        .gtt_head_yearcontainer_m {
+            display: inline-block;
+            height: 100%;
+            .gtt_head_year_m {
+                text-align: center;
+                height: 17px;
+                line-height: 17px;
+                border-bottom: 1px solid #d2daea;
+                border-right: 1px solid #d2daea;
+            }
+            .gtt_head_month_m {
+                display: inline-block;
+                height: 16px;
+                line-height: 16px;
+                text-align: center;
+                border-right: 1px solid #d2daea;
+            }
+        }
+        .gtt_head_duration {
+            display: inline-block;
+            height: 100%;
+            .gtt_head_year {
+                text-align: center;
+                height: 17px;
+                line-height: 17px;
+                border-bottom: 1px solid #d2daea;
+                border-right: 1px solid #d2daea;
+            }
+            .gtt_head_day {
+                display: inline-block;
+                height: 16px;
+                line-height: 16px;
+                text-align: center;
+                border-right: 1px solid #d2daea;
+                font: 12px;
+                // width: 20px;
+            }
+        }
+    }
+    .body-container {
+        padding-top: 1px;
+        min-width: 100%;
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: 550px;
+        position: relative;
+        .horizontal-line {
+            border-bottom: 1px solid #d0d0d0;
+            height: 30px;
+            background: white;
+            width: 100%;
+            padding: 0 !important;
+        }
+        .planbar {
+            // -webkit-transition: -webkit-transform 1s;
+            // transition: transform 1s;
+            -webkit-transition: width 1s;
+            transition: width 1s;
+        }
+        // .planbar:hover {
+        //     // -webkit-transform: scale(1, 1.5);
+        //     // transform: scale(1, 1.5);
+        //     // height: 16px !important;
+        // }
+    }
+}
+
+.downarrow::after {
+    content: '\E683';
+    font-family: 'iconfont';
+    -webkit-transform: none;
+    transform: none;
+    font-weight: normal;
+    margin-left: -5.5px;
+    color: #0992e4;
+}
+
+.uparrow::after {
+    content: '\E687';
+    font-family: 'iconfont';
+    -webkit-transform: none;
+    transform: none;
+    font-weight: normal;
+    margin-left: -5.5px;
+    color: #0992e4;
+}

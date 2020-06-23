@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userdefs>
+        <userdef>
+                <name>adprepare.ssfactionHVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+        <userdef>
+                <name>adprepare.ssfactionBVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+</userdefs>

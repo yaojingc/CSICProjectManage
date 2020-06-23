@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>adprepare.promanage.savemarketprojectHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deletemarketprojectHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagemarketprojectHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypkmarketprojectHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardmarketprojectHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitmarketprojectHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitmarketprojectHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.marketprojecthvo.action.MarketprojectHVOUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

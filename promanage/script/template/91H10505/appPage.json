@@ -1,0 +1,62 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "91H10505_LIST",
+    "pagename": "客户回访列表页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10505/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10505",
+    "pk_apppage": "PK_PG01",
+    "resid": 91H10505_LIST,
+    "ts": "2020-05-04 16:02:22"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "91H10505_CARD",
+    "pagename": "客户回访卡片页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10505/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10505",
+    "pk_apppage": "PK_PG02",
+    "resid": 91H10505_CARD,
+    "ts": "2020-05-04 16:02:22"
+  },
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "Y",
+"isdefault": "N",
+"modifier": "~",
+"pagecode": "91H10505L_CARD",
+"pagename": "客户回访联查卡片页",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10505/main/index.html#/card",
+"parent_id": "PK_APP",
+"parentcode": "91H10505",
+"pk_apppage": "PK_PG03",
+"resid": 91H10505_CARD,
+"ts": "2020-05-04 16:02:22"
+},
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "N",
+"isdefault": "Y",
+"modifier": "~",
+"pagecode": "91H10505A_CARD",
+"pagename": "客户回访审批",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10505/main/index.html#/card",
+"parent_id": "PK_APP1",
+"parentcode": "91H10505A",
+"pk_apppage": "PK_PG04",
+"resid": 91H10505A_CARD,
+"ts": "2020-05-04 16:02:22"
+}
+]

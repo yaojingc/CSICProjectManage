@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+	<authorize>
+		<!-- 应用编码 -->
+		<appcode>91H10599,91H10599A</appcode>
+		<actions>
+			<!-- 卡片查询 -->
+			<action>adprepare.promanage.querycardmlyprojectplanHVO</action>
+			<!-- 列表查询 -->
+			<action>adprepare.promanage.querypagemlyprojectplanHVO</action>
+			<!-- pk查询 -->
+			<action>adprepare.promanage.querypagebypkmlyprojectplanHVO</action>
+			<!-- 保存 -->
+			<action>adprepare.promanage.savemlyprojectplanHVO</action>
+			<!-- 删除 -->
+			<action>adprepare.promanage.deletemlyprojectplanHVO</action>
+			<!-- 提交 -->
+			<action>adprepare.promanage.commitmlyprojectplanHVO</action>
+			<!-- 撤回 -->
+			<action>adprepare.promanage.uncommitmlyprojectplanHVO</action>
+			<!-- 表头编辑后事件 -->
+			<action>adprepare.promanage.headafterEventmlyprojectplanHVO</action>
+			<!-- 表体工期计算 -->
+			<action>adprepare.promanage.bodydurationmlyprojectplanHVO</action>
+		</actions>
+	</authorize>
+</authorizes>

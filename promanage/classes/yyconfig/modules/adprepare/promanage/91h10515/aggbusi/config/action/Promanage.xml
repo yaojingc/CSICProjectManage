@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>adprepare.promanage.saveprofinishHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deleteprofinishHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypageprofinishHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypkprofinishHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardprofinishHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitprofinishHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitprofinishHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.profinishhvo.action.ProfinishHVOUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

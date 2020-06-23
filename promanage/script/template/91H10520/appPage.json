@@ -1,0 +1,62 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "91H10520_LIST",
+    "pagename": "满意度调查列表页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10520/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10520",
+    "pk_apppage": "PK_PG01",
+    "resid": 91H10520_LIST,
+    "ts": "2020-05-08 16:42:48"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "91H10520_CARD",
+    "pagename": "满意度调查卡片页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10520/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10520",
+    "pk_apppage": "PK_PG02",
+    "resid": 91H10520_CARD,
+    "ts": "2020-05-08 16:42:48"
+  },
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "Y",
+"isdefault": "N",
+"modifier": "~",
+"pagecode": "91H10520L_CARD",
+"pagename": "满意度调查联查卡片页",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10520/main/index.html#/card",
+"parent_id": "PK_APP",
+"parentcode": "91H10520",
+"pk_apppage": "PK_PG03",
+"resid": 91H10520_CARD,
+"ts": "2020-05-08 16:42:48"
+},
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "N",
+"isdefault": "Y",
+"modifier": "~",
+"pagecode": "91H10520A_CARD",
+"pagename": "满意度调查审批",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10520/main/index.html#/card",
+"parent_id": "PK_APP1",
+"parentcode": "91H10520A",
+"pk_apppage": "PK_PG04",
+"resid": 91H10520A_CARD,
+"ts": "2020-05-08 16:42:48"
+}
+]

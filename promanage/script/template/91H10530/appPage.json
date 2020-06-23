@@ -1,0 +1,62 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "91H10530_LIST",
+    "pagename": "营销项目追踪列表页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10530/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10530",
+    "pk_apppage": "PK_PG01",
+    "resid": 91H10530_LIST,
+    "ts": "2020-05-08 16:43:34"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "91H10530_CARD",
+    "pagename": "营销项目追踪卡片页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10530/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10530",
+    "pk_apppage": "PK_PG02",
+    "resid": 91H10530_CARD,
+    "ts": "2020-05-08 16:43:34"
+  },
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "Y",
+"isdefault": "N",
+"modifier": "~",
+"pagecode": "91H10530L_CARD",
+"pagename": "营销项目追踪联查卡片页",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10530/main/index.html#/card",
+"parent_id": "PK_APP",
+"parentcode": "91H10530",
+"pk_apppage": "PK_PG03",
+"resid": 91H10530_CARD,
+"ts": "2020-05-08 16:43:34"
+},
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "N",
+"isdefault": "Y",
+"modifier": "~",
+"pagecode": "91H10530A_CARD",
+"pagename": "营销项目追踪审批",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10530/main/index.html#/card",
+"parent_id": "PK_APP1",
+"parentcode": "91H10530A",
+"pk_apppage": "PK_PG04",
+"resid": 91H10530A_CARD,
+"ts": "2020-05-08 16:43:34"
+}
+]

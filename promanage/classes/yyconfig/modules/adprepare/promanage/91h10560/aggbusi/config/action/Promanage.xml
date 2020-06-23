@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+	<action>
+        <name>adprepare.promanage.tendayProjectplanHeadAfterEdit</name>
+        <label>表头编辑事件</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.tendayProjectplanHeadAfterEditAction</clazz>
+    </action>
+
+
+    <action>
+        <name>adprepare.promanage.savetenprojectplanHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deletetenprojectplanHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagetenprojectplanHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypktenprojectplanHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardtenprojectplanHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.committenprojectplanHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommittenprojectplanHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.tenprojectplanhvo.action.TenprojectplanHVOUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

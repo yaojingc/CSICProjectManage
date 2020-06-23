@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userdefs>
+        <userdef>
+                <name>adprepare.custinformationHVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+        <userdef>
+                <name>adprepare.custinformationBVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+        <userdef>
+                <name>adprepare.custinformationCVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+</userdefs>

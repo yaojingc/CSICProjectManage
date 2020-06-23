@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 请求映射 -->
+<actions>
+	<!-- 新增一个弹框请求的方法  By yaojing  -->
+	<action>
+		<name>phm.projectregister.popoutUpdate</name>
+		<label>项目信息登记分配弹框更新</label>
+		<clazz>nccloud.web.phm.projectregister.action.ProjectregPopoutUpdateAction
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.query</name>
+		<label>项目信息登记查询</label>
+		<clazz>nccloud.web.phm.projectregister.action.ProjectRegisterQueryAction
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.queryCard</name>
+		<label>查询单个项目登记</label>
+		<clazz>
+			nccloud.web.phm.projectregister.action.ProjectRegisterQueryCardAction
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.actionScript</name>
+		<label>项目登记动作脚本通用接口</label>
+		<clazz>
+			nccloud.web.phm.projectregister.action.ProjectRegisterAction4ActionScript
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.afterEdit</name>
+		<label>项目登记表头修改后事件</label>
+		<clazz>
+			nccloud.web.phm.projectregister.action.handler.ProjectRegisterAfterAction
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.batchPrint</name>
+		<label>项目登记批量打印</label>
+		<clazz>
+			nccloud.web.phm.projectregister.action.ProjectRegisterPrintBatchAction
+		</clazz>
+	</action>
+
+	<action>
+		<name>phm.projectregister.queryList4Transfer</name>
+		<label>转单页查询</label>
+		<clazz>
+			nccloud.web.phm.projectregister.transfer.action.ProjectRegisterListQuery4Transfer
+		</clazz>
+	</action>
+</actions>

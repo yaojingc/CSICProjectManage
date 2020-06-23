@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="pmbd/classes" path="pmbd/src/public"/>
+	<classpathentry kind="src" output="pmbd/classes" path="pmbd/src/client"/>
+	<classpathentry kind="src" output="pmbd/classes" path="pmbd/src/private"/>
+	<classpathentry kind="src" output="pmbd/classes" path="pmbd/src/test"/>
+	<classpathentry kind="src" output="pmbd/classes" path="pmbd/resources"/>
+	<classpathentry kind="src" output="pmsch/classes" path="pmsch/src/public"/>
+	<classpathentry kind="src" output="pmsch/classes" path="pmsch/src/client"/>
+	<classpathentry kind="src" output="pmsch/classes" path="pmsch/src/private"/>
+	<classpathentry kind="src" output="pmsch/classes" path="pmsch/src/test"/>
+	<classpathentry kind="src" output="pmsch/classes" path="pmsch/resources"/>
+	<classpathentry kind="src" output="phm/classes" path="phm/src/public"/>
+	<classpathentry kind="src" output="phm/classes" path="phm/src/client"/>
+	<classpathentry kind="src" output="phm/classes" path="phm/src/private"/>
+	<classpathentry kind="src" output="phm/classes" path="phm/src/test"/>
+	<classpathentry kind="src" output="phm/classes" path="phm/resources"/>
+	<classpathentry kind="src" output="promanage/classes" path="promanage/src/public"/>
+	<classpathentry kind="src" output="promanage/classes" path="promanage/src/client"/>
+	<classpathentry kind="src" output="promanage/classes" path="promanage/src/private"/>
+	<classpathentry kind="src" output="promanage/classes" path="promanage/src/test"/>
+	<classpathentry kind="src" output="promanage/classes" path="promanage/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Ant_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Product_Common_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Middleware_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Framework_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Public_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Client_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Private_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Lang_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Generated_EJB"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/NCCloud_Library"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

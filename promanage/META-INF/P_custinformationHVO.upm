@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding='gb2312'?>
+<module name="adprepare">
+  <public>
+        <component remote="true" singleton="true"  tx="CMT">
+          <interface>nc.itf.adprepare.promanage.ICustinformationhvoMaintain</interface>
+          <implementation>nc.impl.adprepare.promanage.CustinformationhvoMaintainImpl</implementation>
+        </component>
+  </public> 
+</module> 

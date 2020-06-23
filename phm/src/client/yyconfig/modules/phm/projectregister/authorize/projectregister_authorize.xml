@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authorizes>
+	<authorize>
+		<appcode>4806005006</appcode>
+		<actions>
+			<!-- 项目信息登记分配弹框更新 Add By yaojing -->
+			<action>phm.projectregister.popoutUpdate</action>
+		
+			<!-- 项目登记查询 -->
+			<action>phm.projectregister.query</action>
+			<!-- 动作脚本接口 -->
+			<action>phm.projectregister.actionScript</action>
+			<!-- 编辑后事件接口 -->
+			<action>phm.projectregister.afterEdit</action>
+			<!-- 查询单个项目登记 -->
+			<action>phm.projectregister.queryCard</action>
+			<!-- 项目登记批量打印 -->
+			<action>phm.projectregister.batchPrint</action>
+			<action>phm.projectregister.queryList4Transfer</action>
+		</actions>
+	</authorize>
+	<authorize>
+		<appcode>4806005006,4806005006P</appcode>
+		<actions>
+			<action>phm.projectregister.queryCard</action>
+		</actions>
+	</authorize>
+</authorizes>

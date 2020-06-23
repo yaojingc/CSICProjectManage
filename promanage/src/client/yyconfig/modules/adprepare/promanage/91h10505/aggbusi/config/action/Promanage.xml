@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+	<action>
+        <name>adprepare.promanage.addcustregisterHVO</name>
+        <label>新增</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOAddAction</clazz>
+    </action>
+
+    <action>
+        <name>adprepare.promanage.savecustregisterHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deletecustregisterHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagecustregisterHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypkcustregisterHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardcustregisterHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitcustregisterHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitcustregisterHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.custregisterhvo.action.CustregisterHVOUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>adprepare.promanage.savesatisfactionHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deletesatisfactionHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagesatisfactionHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypksatisfactionHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardsatisfactionHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitsatisfactionHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitsatisfactionHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.satisfactionhvo.action.SatisfactionHVOUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

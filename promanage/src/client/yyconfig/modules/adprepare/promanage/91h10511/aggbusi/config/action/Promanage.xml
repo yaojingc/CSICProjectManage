@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>adprepare.promanage.saveprostartHVO</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deleteprostartHVO</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypageprostartHVO</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypkprostartHVO</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardprostartHVO</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitprostartHVO</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitprostartHVO</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.prostarthvo.action.ProstartHVOUnCommitAssignAction
+        </clazz>
+    </action>
+</actions>

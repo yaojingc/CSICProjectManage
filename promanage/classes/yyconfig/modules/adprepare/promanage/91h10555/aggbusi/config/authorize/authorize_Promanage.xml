@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10555,91H10555A</appcode>
+        <actions>
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardxunprojectplanHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypagexunprojectplanHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypkxunprojectplanHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.savexunprojectplanHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deletexunprojectplanHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.commitxunprojectplanHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommitxunprojectplanHVO</action>
+        </actions>
+    </authorize>
+</authorizes>

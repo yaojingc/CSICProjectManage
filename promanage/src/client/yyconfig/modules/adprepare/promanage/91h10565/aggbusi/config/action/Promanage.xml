@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>adprepare.promanage.savemlyprojectplanhvo</name>
+        <label>保存</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoSaveAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.deletemlyprojectplanhvo</name>
+        <label>删除</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoDeleteAction</clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagemlyprojectplanhvo</name>
+        <label>列表查询</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querypagebypkmlyprojectplanhvo</name>
+        <label>分页查询</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.querycardmlyprojectplanhvo</name>
+        <label>卡片查询</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoQueryCardAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.commitmlyprojectplanhvo</name>
+        <label>提交单据</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoCommitAssignAction
+        </clazz>
+    </action>
+    <action>
+        <name>adprepare.promanage.uncommitmlyprojectplanhvo</name>
+        <label>收回单据</label>
+        <clazz>nc.adprepare.promanage.mlyprojectplanhvo.action.MlyprojectplanhvoUnCommitAssignAction
+        </clazz>
+    </action>
+
+</actions>

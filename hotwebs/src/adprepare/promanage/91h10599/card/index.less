@@ -1,0 +1,51 @@
+@charset 'utf-8';
+#app > div {
+    height: auto!important;
+}
+
+.openclose {
+    position: relative;
+    .openclose_open::after {
+        font-family: 'iconfont';
+        content: '\E633';
+        -webkit-transform: none;
+        transform: none;
+        font-weight: normal;
+        right: 0;
+    }
+    .openclose_close::after {
+        font-family: 'iconfont';
+        content: '\E603';
+        -webkit-transform: none;
+        transform: none;
+        font-weight: normal;
+    }
+    .openclose_item::after {
+        font-family: 'iconfont';
+        content: '\E610';
+        -webkit-transform: none;
+        transform: none;
+        font-weight: normal;
+    }
+}
+
+.pretasks .refer-refresh {
+    display: none;
+}
+
+.treetable .icon-shituliebiaoqiehuan, .icon-zuidahua {
+    display: none;
+}
+
+.tempopr a {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.nc-bill-bottom-area {
+    background-color: #9caabd !important;
+}
+
+.treetable {
+    display: inline-block;
+}

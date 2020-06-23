@@ -1,0 +1,18 @@
+{
+	"buildEntryPath": [
+		
+
+		"./src/adprepare/*/*/*/index.js",
+		"./src/pbm/*/*/*/index.js",
+		"./src/pcm/*/*/*/index.js",
+		"./src/phm/*/*/*/index.js",
+		"./src/pim/*/*/*/index.js",
+		"./src/pmbd/*/*/*/index.js",
+		"./src/pmsch/*/*/*/index.js"
+		
+		
+	],
+	"proxy":"http://localhost:80",
+	"buildWithoutHTML": [ "uapbd/refer", "uap/refer" ],
+	"devPort": 3006
+}

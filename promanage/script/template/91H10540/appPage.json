@@ -1,0 +1,62 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "91H10540_LIST",
+    "pagename": "客户信息登记列表页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10540/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10540",
+    "pk_apppage": "PK_PG01",
+    "resid": 91H10540_LIST,
+    "ts": "2020-05-08 16:41:45"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "91H10540_CARD",
+    "pagename": "客户信息登记卡片页面",
+    "pageurl": "/nccloud/resources/adprepare/promanage/91h10540/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "91H10540",
+    "pk_apppage": "PK_PG02",
+    "resid": 91H10540_CARD,
+    "ts": "2020-05-08 16:41:45"
+  },
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "Y",
+"isdefault": "N",
+"modifier": "~",
+"pagecode": "91H10540L_CARD",
+"pagename": "客户信息登记联查卡片页",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10540/main/index.html#/card",
+"parent_id": "PK_APP",
+"parentcode": "91H10540",
+"pk_apppage": "PK_PG03",
+"resid": 91H10540_CARD,
+"ts": "2020-05-08 16:41:45"
+},
+{
+"creator": "~",
+"dr": "0",
+"iscarddefault": "N",
+"isdefault": "Y",
+"modifier": "~",
+"pagecode": "91H10540A_CARD",
+"pagename": "客户信息登记审批",
+"pageurl": "/nccloud/resources/adprepare/promanage/91h10540/main/index.html#/card",
+"parent_id": "PK_APP1",
+"parentcode": "91H10540A",
+"pk_apppage": "PK_PG04",
+"resid": 91H10540A_CARD,
+"ts": "2020-05-08 16:41:45"
+}
+]

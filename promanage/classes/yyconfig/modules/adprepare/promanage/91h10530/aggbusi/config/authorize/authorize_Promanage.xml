@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10530,91H10530A</appcode>
+        <actions>
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardmarketprojectHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypagemarketprojectHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypkmarketprojectHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.savemarketprojectHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deletemarketprojectHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.commitmarketprojectHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommitmarketprojectHVO</action>
+        </actions>
+    </authorize>
+</authorizes>

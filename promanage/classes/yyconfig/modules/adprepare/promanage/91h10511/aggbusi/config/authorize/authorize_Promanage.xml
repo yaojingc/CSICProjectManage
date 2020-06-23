@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10511,91H10511A</appcode>
+        <actions>
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardprostartHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypageprostartHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypkprostartHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.saveprostartHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deleteprostartHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.commitprostartHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommitprostartHVO</action>
+        </actions>
+    </authorize>
+</authorizes>

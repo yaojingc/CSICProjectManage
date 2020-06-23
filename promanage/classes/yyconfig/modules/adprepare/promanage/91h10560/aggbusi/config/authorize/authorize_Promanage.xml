@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10560,91H10560A</appcode>
+        <actions>
+        	<!-- 卡片表头编辑后事件 -->
+            <action>adprepare.promanage.tendayProjectplanHeadAfterEdit</action>
+        
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardtenprojectplanHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypagetenprojectplanHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypktenprojectplanHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.savetenprojectplanHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deletetenprojectplanHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.committenprojectplanHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommittenprojectplanHVO</action>
+        </actions>
+    </authorize>
+</authorizes>

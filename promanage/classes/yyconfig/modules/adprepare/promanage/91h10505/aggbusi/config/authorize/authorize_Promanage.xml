@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10505,91H10505A,4806005006</appcode>
+        <actions>
+       	    <!-- 新增事件 -->
+            <action>adprepare.promanage.addcustregisterHVO</action>
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardcustregisterHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypagecustregisterHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypkcustregisterHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.savecustregisterHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deletecustregisterHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.commitcustregisterHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommitcustregisterHVO</action>
+        </actions>
+    </authorize>
+</authorizes>

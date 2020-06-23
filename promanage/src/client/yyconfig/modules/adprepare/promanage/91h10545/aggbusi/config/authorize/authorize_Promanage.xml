@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <!-- 应用编码 -->
+        <appcode>91H10545,91H10545A</appcode>
+        <actions>
+        	<!-- 表体编辑后事件 -->
+            <action>adprepare.promanage.bodyaftereditformonthprojectplan</action>
+        	
+            <!-- 卡片查询 -->
+            <action>adprepare.promanage.querycardmonprojectplanHVO</action>
+            <!-- 列表查询 -->
+            <action>adprepare.promanage.querypagemonprojectplanHVO</action>
+            <!-- pk查询 -->
+            <action>adprepare.promanage.querypagebypkmonprojectplanHVO</action>
+            <!-- 保存 -->
+            <action>adprepare.promanage.savemonprojectplanHVO</action>
+            <!-- 删除 -->
+            <action>adprepare.promanage.deletemonprojectplanHVO</action>
+            <!-- 提交 -->
+            <action>adprepare.promanage.commitmonprojectplanHVO</action>
+            <!-- 撤回 -->
+            <action>adprepare.promanage.uncommitmonprojectplanHVO</action>
+        </actions>
+    </authorize>
+</authorizes>
