@@ -10,6 +10,7 @@ const {
 import { dealDataBeforeToBack, dealDataFromBack, filterData } from './treetableAction';
 
 export function bodyAfterEvent(props, moduleId, key, value, changedrows, index) {
+	debugger
 	let pk_org = props.form.getFormItemsValue(cardFormId, 'pk_org').value;
 	let rowdata = props.cardTable.getDataByIndex(cardTableId, index);
 	let dateArr = ['plan_start_date', 'plan_end_date', 'duration', 'pk_front_plan'];
@@ -50,8 +51,8 @@ function bodyAfter(props, key, index, changedrows) {
 			return cur.rowid == rowid
 		})
 	};
-	/* ajax({
-		url: '/nccloud/pmsch/planncc/bodyAfterEdit.do',
+	 ajax({
+		url: '/nccloud/adprepare/promanage/bodyaftereditmlyprojectplanHVO.do',
 		data: data,
 		success: (res) => {
 			debugger;
@@ -82,7 +83,7 @@ function bodyAfter(props, key, index, changedrows) {
 			}
 			toast({ color: 'danger', content: e.message });
 		}
-	}); */
+	}); 
 }
 
 
